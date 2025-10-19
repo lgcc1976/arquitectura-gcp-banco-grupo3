@@ -4,7 +4,7 @@
 **Profesor:** Ahmad Armoush  
 **Fecha:** Octubre 2025  
 **Integrantes:**  
-- Gonzalo Cartagena
+- Leslie Cartagena
 - German Ruiz  
 
 ---
